@@ -1,0 +1,17 @@
+{
+  "name": "react-typescript-bare",
+  "version": "1.0.0",
+  "description": "A bare bones React & TypeScript project created without any boostrapping tools (ie CRA)",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S. Aziz",
+  "license": "ISC"
+}

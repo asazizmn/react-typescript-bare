@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {                            // Ref: https://www.typescriptlang.org/tsconfig
+        "module": "None",                           // no module system, concatenated file
+        "jsx": "react",                             // set React as the JSX factory 
+        "moduleResolution": "Node",                 // resolve modules using node-resolution algorithm
+        "target": "ES6",                            // target es6 for modern browsers
+        "lib": ["ES2015", "DOM", "DOM.Iterable"],   // include typings from built-in lib declarations
+        "sourceMap": true,                          // include module source maps for debugging
+        "outFile": "dist/bundle.js"                 // output to a single concatenated file
+    },
+    
+    "include": ["src"]                              // an array of filenames or patterns to include in app
+}
