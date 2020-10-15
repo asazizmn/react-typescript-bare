@@ -10,7 +10,7 @@ To install and then run this project, please do the following.
 3. Install all the project dependencies. `npm install`
 
 4. Build this project (ie compile typescript -> javascript ). `npm run build`
-   (If you encounter errors such as "Cannot find name 'React'", or "Cannot find name 'ReactDOM'", pleaser run the following command.
-    `npm install react react-dom typescript @types/react @types/react-dom --save`)
+   If you encounter errors such as "Cannot find name 'React'", or "Cannot find name 'ReactDOM'", please run the following command first and then retry.
+    `npm install react react-dom typescript @types/react @types/react-dom --save`
 
 5. Run this project using `serve` from the npm repositories. It implicitly builds a node server to run your project. `npx serve`
