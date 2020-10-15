@@ -2,18 +2,17 @@
   "name": "react-typescript-bare",
   "version": "1.0.0",
   "description": "A bare bones React & TypeScript project created without any boostrapping tools (ie CRA)",
-  
   "dependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "@types/react": "^16.9.52",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "typescript": "^4.0.3"
   },
-  
   "scripts": {
     "build": "tsc -p .",
     "watch": "tsc -p . -w"
   },
-
   "author": "S. Aziz",
   "license": "ISC"
 }
