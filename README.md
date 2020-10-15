@@ -1,5 +1,5 @@
 # react-typescript-bare
-A bare bones React &amp; TypeScript project, created without any boostrapping tools (ie CRA). It maybe used as a base to build or test simple React and Typescript applications. As apposed to using CRA (`create-react-app`), this project is very light and doesn't come with features such as hot reloading, unit testing, etc. It is good for learners who only need to focus on React and TypeScript.
+A bare bones React &amp; TypeScript project, created as a lightweight alternative to CRA (`create-react-app`). It maybe used as a base to build or test simple React and Typescript applications. Unlike CRA, this project is minimalistic and doesn't come with the extra configurations that support hot reloading, unit testing, etc. It is good for learners who only need to focus on React and TypeScript.
 
 To install and then run this project, please do the following.
 
